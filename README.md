@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋 I'm Noor Mahammad Jalaparthi
+
+- 🔭 I’m currently working and learning more on Flutter
+- 📫 How to reach me: jalaparthinoormahammad@gmail.com
+  
+
+
 
 <!--
 **noorj-in/noorj-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
